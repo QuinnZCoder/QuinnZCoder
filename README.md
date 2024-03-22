@@ -1,6 +1,6 @@
  <body>
   <header>
- <img align="middle" height="150px" width="15%" src="https://simg.nicepng.com/png/small/142-1423886_html5-css3-js-html-css-javascript.png">
+ <img align="middle" height="150px" width="30%" src="https://simg.nicepng.com/png/small/142-1423886_html5-css3-js-html-css-javascript.png">
   </header>
   <main>
     <h1>Hey there, it's Quinn!</h1>
