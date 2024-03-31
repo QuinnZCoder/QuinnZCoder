@@ -9,7 +9,7 @@
     <h2>Here are some projects that I've designed.</h2>
     <p><a class="fiesta survey" href="https://replit.com/@AvigaelH/Fiesta-Survey-Form?v=1">Fiesta Planning Survey</a> using HTML5 and CSS3</p>
     <p><a href="https://replit.com/@AvigaelH/Technical-Documentation-Project?v=1">Technical Documentation Project</a> teaching how to craft coffee drinks</p>
-    <p><a href="https://replit.com/@AvigaelH/TributePagefreecodecamp?v=1">Tribute Page freeCodeCamp project</a></p>
+    <p><a href="https://replit.com/@AvigaelH/TributePagefreecodecamp?v=1">Tribute Page</a> freeCodeCamp project</p>
    
    
 
