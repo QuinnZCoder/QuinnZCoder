@@ -8,6 +8,8 @@
     <img height="300px"src="https://sdk.bitmoji.com/render/panel/20054902-102690400939_1-s5-v1.png?transparent=1&palette=1&scale=2">
     <h2>Here are some projects that I've designed.</h2>
     <p><a class="fiesta survey" href="https://replit.com/@AvigaelH/Fiesta-Survey-Form?v=1">Fiesta Planning Survey</a> using HTML5 and CSS3</p>
+    <p><a class="https://replit.com/@AvigaelH/Technical-Documentation-Project?v=1">Project teaching how to craft coffee drinks</a></p>
+    <p><a class="https://replit.com/@AvigaelH/TributePagefreecodecamp?v=1">Tribute Page freeCodeCamp projec</a></p>
    
    
 
